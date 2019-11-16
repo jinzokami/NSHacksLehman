@@ -1,0 +1,702 @@
+[
+    {
+        "UniversityName": "Princeton University",
+        "City": "Princeton",
+        "State": "NJ",
+        "OutCost": 51870,
+        "InCost": 51870
+    },
+    {
+        "UniversityName": "​Harvard University",
+        "City": "Cambridge",
+        "State": "MA",
+        "OutCost": 51925,
+        "InCost": 51925
+    },
+    {
+        "UniversityName": "​Columbia University",
+        "City": "New York",
+        "State": "NY",
+        "OutCost": 61850,
+        "InCost": 6850
+    },
+    {
+        "UniversityName": "​Massachusetts Institute of Technology",
+        "City": "Cambridge",
+        "State": "MA",
+        "OutCost": 53790,
+        "InCost": 53790
+    },
+    {
+        "UniversityName": "​Yale University",
+        "City": "New Haven",
+        "State": "CT",
+        "OutCost": 55500,
+        "InCost": 55500
+    },
+    {
+        "UniversityName": "​Stanford University",
+        "City": "Stanford",
+        "State": "CA",
+        "OutCost": 53529,
+        "InCost": 53529
+    },
+    {
+        "UniversityName": "​University of Chicago",
+        "City": "Chicago",
+        "State": "IL",
+        "OutCost": 59298,
+        "InCost": 59298
+    },
+    {
+        "UniversityName": "​University of Pennsylvania",
+        "City": "Philadelphia",
+        "State": "PA",
+        "OutCost": 57770,
+        "InCost": 57770
+    },
+    {
+        "UniversityName": "​Northwestern University",
+        "City": "Evanston",
+        "State": "IL",
+        "OutCost": 56691,
+        "InCost": 56691
+    },
+    {
+        "UniversityName": "​Duke University",
+        "City": "Durham",
+        "State": "NC",
+        "OutCost": 58198,
+        "InCost": 58198
+    },
+    {
+        "UniversityName": "​Johns Hopkins University",
+        "City": "Baltimore",
+        "State": "MD",
+        "OutCost": 55350,
+        "InCost": 55350
+    },
+    {
+        "UniversityName": "​California Institute of Technology",
+        "City": "Pasadena",
+        "State": "CA",
+        "OutCost": 54600,
+        "InCost": 54600
+    },
+    {
+        "UniversityName": "​Dartmouth College",
+        "City": "Hanover",
+        "State": "NH",
+        "OutCost": 57204,
+        "InCost": 57204
+    },
+    {
+        "UniversityName": "​Brown University",
+        "City": "Providence",
+        "State": "RI",
+        "OutCost": 58504,
+        "InCost": 58504
+    },
+    {
+        "UniversityName": "​University of Notre Dame",
+        "City": "Notre Dame",
+        "State": "IN",
+        "OutCost": 55553,
+        "InCost": 55553
+    },
+    {
+        "UniversityName": "​Vanderbilt University",
+        "City": "Nashville",
+        "State": "TN",
+        "OutCost": 52070,
+        "InCost": 52070
+    },
+    {
+        "UniversityName": "​Cornell University",
+        "City": "Ithaca",
+        "State": "NY",
+        "OutCost": 57222,
+        "InCost": 57222
+    },
+    {
+        "UniversityName": "​Rice University",
+        "City": "Houston",
+        "State": "TX",
+        "OutCost": 49112,
+        "InCost": 49112
+    },
+    {
+        "UniversityName": "​Washington University in St. Louis",
+        "City": "St. Louis",
+        "State": "MO",
+        "OutCost": 55292,
+        "InCost": 55292
+    },
+    {
+        "UniversityName": "​University of California--Los Angeles",
+        "City": "Los Angeles",
+        "State": "CA",
+        "OutCost": 42218,
+        "InCost": 13226
+    },
+    {
+        "UniversityName": "​Emory University",
+        "City": "Atlanta",
+        "State": "GA",
+        "OutCost": 53804,
+        "InCost": 53804
+    },
+    {
+        "UniversityName": "​University of California--Berkeley",
+        "City": "Berkeley",
+        "State": "CA",
+        "OutCost": 43176,
+        "InCost": 14184
+    },
+    {
+        "UniversityName": "​University of Southern California",
+        "City": "Los Angeles",
+        "State": "CA",
+        "OutCost": 58195,
+        "InCost": 58195
+    },
+    {
+        "UniversityName": "​Georgetown University",
+        "City": "Washington",
+        "State": "DC",
+        "OutCost": 56058,
+        "InCost": 56058
+    },
+    {
+        "UniversityName": "​Carnegie Mellon University",
+        "City": "Pittsburgh",
+        "State": "PA",
+        "OutCost": 57119,
+        "InCost": 57119
+    },
+    {
+        "UniversityName": "​University of Michigan--Ann Arbor",
+        "City": "Ann Arbor",
+        "State": "MI",
+        "OutCost": 51200,
+        "InCost": 15558
+    },
+    {
+        "UniversityName": "​Wake Forest University",
+        "City": "Winston-Salem",
+        "State": "NC",
+        "OutCost": 55440,
+        "InCost": 55440
+    },
+    {
+        "UniversityName": "​University of Virginia",
+        "City": "Charlottesville",
+        "State": "VA",
+        "OutCost": 50920,
+        "InCost": 17891
+    },
+    {
+        "UniversityName": "​Georgia Institute of Technology",
+        "City": "Atlanta",
+        "State": "GA",
+        "OutCost": 33794,
+        "InCost": 12682
+    },
+    {
+        "UniversityName": "​New York University",
+        "City": "New York",
+        "State": "NY",
+        "OutCost": 53308,
+        "InCost": 53308
+    },
+    {
+        "UniversityName": "​Tufts University",
+        "City": "Medford",
+        "State": "MA",
+        "OutCost": 58578,
+        "InCost": 58578
+    },
+    {
+        "UniversityName": "​University of North Carolina--Chapel Hill",
+        "City": "Chapel Hill",
+        "State": "NC",
+        "OutCost": 36222,
+        "InCost": 9043
+    },
+    {
+        "UniversityName": "​University of Rochester",
+        "City": "Rochester",
+        "State": "NY",
+        "OutCost": 56026,
+        "InCost": 56026
+    },
+    {
+        "UniversityName": "​University of California--Santa Barbara",
+        "City": "Santa Barbara",
+        "State": "CA",
+        "OutCost": 43383,
+        "InCost": 14391
+    },
+    {
+        "UniversityName": "​University of Florida",
+        "City": "Gainesville",
+        "State": "FL",
+        "OutCost": 28658,
+        "InCost": 6380
+    },
+    {
+        "UniversityName": "​University of California--Irvine",
+        "City": "Irvine",
+        "State": "CA",
+        "OutCost": 43481,
+        "InCost": 13727
+    },
+    {
+        "UniversityName": "​Boston College",
+        "City": "Chestnut Hill",
+        "State": "MA",
+        "OutCost": 57910,
+        "InCost": 57910
+    },
+    {
+        "UniversityName": "​University of California--San Diego",
+        "City": "La Jolla",
+        "State": "CA",
+        "OutCost": 43162,
+        "InCost": 14170
+    },
+    {
+        "UniversityName": "​University of California--Davis",
+        "City": "Davis",
+        "State": "CA",
+        "OutCost": 43484,
+        "InCost": 14492
+    },
+    {
+        "UniversityName": "​Boston University",
+        "City": "Boston",
+        "State": "MA",
+        "OutCost": 55892,
+        "InCost": 55892
+    },
+    {
+        "UniversityName": "​Brandeis University",
+        "City": "Waltham",
+        "State": "MA",
+        "OutCost": 57561,
+        "InCost": 57561
+    },
+    {
+        "UniversityName": "​Case Western Reserve University",
+        "City": "Cleveland",
+        "State": "OH",
+        "OutCost": 50904,
+        "InCost": 50904
+    },
+    {
+        "UniversityName": "​College of William and Mary",
+        "City": "Williamsburg",
+        "State": "VA",
+        "OutCost": 46283,
+        "InCost": 22922
+    },
+    {
+        "UniversityName": "​Northeastern University",
+        "City": "Boston",
+        "State": "MA",
+        "OutCost": 53506,
+        "InCost": 53506
+    },
+    {
+        "UniversityName": "​Tulane University",
+        "City": "New Orleans",
+        "State": "LA",
+        "OutCost": 56800,
+        "InCost": 56800
+    },
+    {
+        "UniversityName": "​University of Wisconsin--Madison",
+        "City": "Madison",
+        "State": "WI",
+        "OutCost": 37785,
+        "InCost": 10725
+    },
+    {
+        "UniversityName": "​Villanova University",
+        "City": "Villanova",
+        "State": "PA",
+        "OutCost": 55430,
+        "InCost": 55430
+    },
+    {
+        "UniversityName": "​University of Illinois--Urbana-Champaign",
+        "City": "Champaign",
+        "State": "IL",
+        "OutCost": 33352,
+        "InCost": 16210
+    },
+    {
+        "UniversityName": "​University of Texas--Austin",
+        "City": "Austin",
+        "State": "TX",
+        "OutCost": 38228,
+        "InCost": 10818
+    },
+    {
+        "UniversityName": "​Lehigh University",
+        "City": "Bethlehem",
+        "State": "PA",
+        "OutCost": 55240,
+        "InCost": 55240
+    },
+    {
+        "UniversityName": "​Pepperdine University",
+        "City": "Malibu",
+        "State": "CA",
+        "OutCost": 55892,
+        "InCost": 55892
+    },
+    {
+        "UniversityName": "​Rensselaer Polytechnic Institute",
+        "City": "Troy",
+        "State": "NY",
+        "OutCost": 55378,
+        "InCost": 55378
+    },
+    {
+        "UniversityName": "​University of Georgia",
+        "City": "Athens",
+        "State": "GA",
+        "OutCost": 31120,
+        "InCost": 12080
+    },
+    {
+        "UniversityName": "​Ohio State University--Columbus",
+        "City": "Columbus",
+        "State": "OH",
+        "OutCost": 32061,
+        "InCost": 11084
+    },
+    {
+        "UniversityName": "​Santa Clara University",
+        "City": "Santa Clara",
+        "State": "CA",
+        "OutCost": 53634,
+        "InCost": 53634
+    },
+    {
+        "UniversityName": "​Syracuse University",
+        "City": "Syracuse",
+        "State": "NY",
+        "OutCost": 53849,
+        "InCost": 53849
+    },
+    {
+        "UniversityName": "​Florida State University",
+        "City": "Tallahassee",
+        "State": "FL",
+        "OutCost": 21673,
+        "InCost": 6507
+    },
+    {
+        "UniversityName": "​Pennsylvania State University--University Park",
+        "City": "University Park",
+        "State": "PA",
+        "OutCost": 35514,
+        "InCost": 18450
+    },
+    {
+        "UniversityName": "​Purdue University--West Lafayette",
+        "City": "West Lafayette",
+        "State": "IN",
+        "OutCost": 28794,
+        "InCost": 9992
+    },
+    {
+        "UniversityName": "​University of Miami",
+        "City": "Coral Gables",
+        "State": "FL",
+        "OutCost": 51930,
+        "InCost": 51930
+    },
+    {
+        "UniversityName": "​University of Pittsburgh",
+        "City": "Pittsburgh",
+        "State": "PA",
+        "OutCost": 33746,
+        "InCost": 19718
+    },
+    {
+        "UniversityName": "​Rutgers University--New Brunswick",
+        "City": "Piscataway",
+        "State": "NJ",
+        "OutCost": 32189,
+        "InCost": 15407
+    },
+    {
+        "UniversityName": "​University of Washington",
+        "City": "Seattle",
+        "State": "WA",
+        "OutCost": 38796,
+        "InCost": 11465
+    },
+    {
+        "UniversityName": "​Loyola Marymount University",
+        "City": "Los Angeles",
+        "State": "CA",
+        "OutCost": 50283,
+        "InCost": 50283
+    },
+    {
+        "UniversityName": "​Southern Methodist University",
+        "City": "Dallas",
+        "State": "TX",
+        "OutCost": 56560,
+        "InCost": 56560
+    },
+    {
+        "UniversityName": "​University of Connecticut",
+        "City": "Storrs",
+        "State": "CT",
+        "OutCost": 39894,
+        "InCost": 17226
+    },
+    {
+        "UniversityName": "​University of Maryland--College Park",
+        "City": "College Park",
+        "State": "MD",
+        "OutCost": 36890,
+        "InCost": 10778
+    },
+    {
+        "UniversityName": "​University of Massachusetts--Amherst",
+        "City": "Amherst",
+        "State": "MA",
+        "OutCost": 35710,
+        "InCost": 16389
+    },
+    {
+        "UniversityName": "​Worcester Polytechnic Institute",
+        "City": "Worcester",
+        "State": "MA",
+        "OutCost": 52322,
+        "InCost": 52322
+    },
+    {
+        "UniversityName": "​Clemson University",
+        "City": "Clemson",
+        "State": "SC",
+        "OutCost": 38112,
+        "InCost": 15120
+    },
+    {
+        "UniversityName": "​George Washington University",
+        "City": "Washington",
+        "State": "DC",
+        "OutCost": 56935,
+        "InCost": 56935
+    },
+    {
+        "UniversityName": "​Texas A&M University--College Station",
+        "City": "College Station",
+        "State": "TX",
+        "OutCost": 37726,
+        "InCost": 11232
+    },
+    {
+        "UniversityName": "​University of Minnesota--Twin Cities",
+        "City": "Minneapolis",
+        "State": "MN",
+        "OutCost": 33325,
+        "InCost": 15027
+    },
+    {
+        "UniversityName": "​Fordham University",
+        "City": "New York",
+        "State": "NY",
+        "OutCost": 54093,
+        "InCost": 54093
+    },
+    {
+        "UniversityName": "​Stevens Institute of Technology",
+        "City": "Hoboken",
+        "State": "NJ",
+        "OutCost": 54014,
+        "InCost": 54014
+    },
+    {
+        "UniversityName": "​Virginia Tech",
+        "City": "Blacksburg",
+        "State": "VA",
+        "OutCost": 32835,
+        "InCost": 13691
+    },
+    {
+        "UniversityName": "​American University",
+        "City": "Washington",
+        "State": "DC",
+        "OutCost": 49889,
+        "InCost": 49889
+    },
+    {
+        "UniversityName": "​Brigham Young University--Provo",
+        "City": "Provo",
+        "State": "UT",
+        "OutCost": 5790,
+        "InCost": 5790
+    },
+    {
+        "UniversityName": "​Baylor University",
+        "City": "Waco",
+        "State": "TX",
+        "OutCost": 47364,
+        "InCost": 47364
+    },
+    {
+        "UniversityName": "​Binghamton University--SUNY",
+        "City": "Binghamton",
+        "State": "NY",
+        "OutCost": 27791,
+        "InCost": 10201
+    },
+    {
+        "UniversityName": "​Gonzaga University",
+        "City": "Spokane",
+        "State": "WA",
+        "OutCost": 45140,
+        "InCost": 45140
+    },
+    {
+        "UniversityName": "​Indiana University--Bloomington",
+        "City": "Bloomington",
+        "State": "IN",
+        "OutCost": 36514,
+        "InCost": 10949
+    },
+    {
+        "UniversityName": "​University at Buffalo--SUNY",
+        "City": "Buffalo",
+        "State": "NY",
+        "OutCost": 27850,
+        "InCost": 10180
+    },
+    {
+        "UniversityName": "​Colorado School of Mines",
+        "City": "Golden",
+        "State": "CO",
+        "OutCost": 39762,
+        "InCost": 19062
+    },
+    {
+        "UniversityName": "​Elon University",
+        "City": "Elon",
+        "State": "NC",
+        "OutCost": 36571,
+        "InCost": 36571
+    },
+    {
+        "UniversityName": "​Marquette University",
+        "City": "Milwaukee",
+        "State": "WI",
+        "OutCost": 43936,
+        "InCost": 43936
+    },
+    {
+        "UniversityName": "​Michigan State University",
+        "City": "East Lansing",
+        "State": "MI",
+        "OutCost": 39766,
+        "InCost": 14460
+    },
+    {
+        "UniversityName": "​North Carolina State University--Raleigh",
+        "City": "Raleigh",
+        "State": "NC",
+        "OutCost": 29220,
+        "InCost": 9101
+    },
+    {
+        "UniversityName": "​University of California--Santa Cruz",
+        "City": "Santa Cruz",
+        "State": "CA",
+        "OutCost": 43046,
+        "InCost": 14054
+    },
+    {
+        "UniversityName": "University of Iowa",
+        "City": "Iowa City",
+        "State": "IA",
+        "OutCost": 31568,
+        "InCost": 9605
+    },
+    {
+        "UniversityName": "Clark University",
+        "City": "Worcester",
+        "State": "MA",
+        "OutCost": 47200,
+        "InCost": 47200
+    },
+    {
+        "UniversityName": "Miami University--Oxford",
+        "City": "Oxford",
+        "State": "OH",
+        "OutCost": 34307,
+        "InCost": 15232
+    },
+    {
+        "UniversityName": "Stony Brook University--SUNY",
+        "City": "Stony Brook",
+        "State": "NY",
+        "OutCost": 28528,
+        "InCost": 10076
+    },
+    {
+        "UniversityName": "University of California--Riverside",
+        "City": "Riverside",
+        "State": "CA",
+        "OutCost": 42819,
+        "InCost": 13827
+    },
+    {
+        "UniversityName": "University of Delaware",
+        "City": "Newark",
+        "State": "DE",
+        "OutCost": 34310,
+        "InCost": 13680
+    },
+    {
+        "UniversityName": "University of San Diego",
+        "City": "San Diego",
+        "State": "CA",
+        "OutCost": 51186,
+        "InCost": 51186
+    },
+    {
+        "UniversityName": "Drexel University",
+        "City": "Philadelphia",
+        "State": "PA",
+        "OutCost": 54516,
+        "InCost": 54516
+    },
+    {
+        "UniversityName": "New Jersey Institute of Technology",
+        "City": "Newark",
+        "State": "NJ",
+        "OutCost": 32750,
+        "InCost": 17338
+    },
+    {
+        "UniversityName": "Saint Louis University",
+        "City": "St. Louis",
+        "State": "MO",
+        "OutCost": 45424,
+        "InCost": 45424
+    },
+    {
+        "UniversityName": "Texas Christian University",
+        "City": "Fort Worth",
+        "State": "TX",
+        "OutCost": 49250,
+        "InCost": 49250
+    }
+]

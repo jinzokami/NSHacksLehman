@@ -1,0 +1,2265 @@
+[
+    {
+        "OccupationTitle": "Total full-time wage and salary workers",
+        "MedianWeeklySalary": 886
+    },
+    {
+        "OccupationTitle": "Management professional and related occupations",
+        "MedianWeeklySalary": 1246
+    },
+    {
+        "OccupationTitle": "Management business and financial operations occupations",
+        "MedianWeeklySalary": 1355
+    },
+    {
+        "OccupationTitle": "Management occupations",
+        "MedianWeeklySalary": 1429
+    },
+    {
+        "OccupationTitle": "Chief executives",
+        "MedianWeeklySalary": 2291
+    },
+    {
+        "OccupationTitle": "General and operations managers",
+        "MedianWeeklySalary": 1338
+    },
+    {
+        "OccupationTitle": "Legislators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Advertising and promotions managers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Marketing and sales managers",
+        "MedianWeeklySalary": 1567
+    },
+    {
+        "OccupationTitle": "Public relations and fundraising managers",
+        "MedianWeeklySalary": 1415
+    },
+    {
+        "OccupationTitle": "Administrative services managers",
+        "MedianWeeklySalary": 1215
+    },
+    {
+        "OccupationTitle": "Computer and information systems managers",
+        "MedianWeeklySalary": 1877
+    },
+    {
+        "OccupationTitle": "Financial managers",
+        "MedianWeeklySalary": 1466
+    },
+    {
+        "OccupationTitle": "Compensation and benefits managers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Human resources managers",
+        "MedianWeeklySalary": 1381
+    },
+    {
+        "OccupationTitle": "Training and development managers",
+        "MedianWeeklySalary": 1448
+    },
+    {
+        "OccupationTitle": "Industrial production managers",
+        "MedianWeeklySalary": 1465
+    },
+    {
+        "OccupationTitle": "Purchasing managers",
+        "MedianWeeklySalary": 1362
+    },
+    {
+        "OccupationTitle": "Transportation storage and distribution managers",
+        "MedianWeeklySalary": 1131
+    },
+    {
+        "OccupationTitle": "Farmers ranchers and other agricultural managers",
+        "MedianWeeklySalary": 945
+    },
+    {
+        "OccupationTitle": "Construction managers",
+        "MedianWeeklySalary": 1431
+    },
+    {
+        "OccupationTitle": "Education administrators",
+        "MedianWeeklySalary": 1381
+    },
+    {
+        "OccupationTitle": "Architectural and engineering managers",
+        "MedianWeeklySalary": 2226
+    },
+    {
+        "OccupationTitle": "Food service managers",
+        "MedianWeeklySalary": 809
+    },
+    {
+        "OccupationTitle": "Funeral service managers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Gaming managers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Lodging managers",
+        "MedianWeeklySalary": 955
+    },
+    {
+        "OccupationTitle": "Medical and health services managers",
+        "MedianWeeklySalary": 1408
+    },
+    {
+        "OccupationTitle": "Natural sciences managers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Postmasters and mail superintendents",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Property real estate and community association managers",
+        "MedianWeeklySalary": 1018
+    },
+    {
+        "OccupationTitle": "Social and community service managers",
+        "MedianWeeklySalary": 1141
+    },
+    {
+        "OccupationTitle": "Emergency management directors",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Managers all other",
+        "MedianWeeklySalary": 1525
+    },
+    {
+        "OccupationTitle": "Business and financial operations occupations",
+        "MedianWeeklySalary": 1216
+    },
+    {
+        "OccupationTitle": "Agents and business managers of artists performers and athletes",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Buyers and purchasing agents farm products",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Wholesale and retail buyers except farm products",
+        "MedianWeeklySalary": 878
+    },
+    {
+        "OccupationTitle": "Purchasing agents except wholesale retail and farm products",
+        "MedianWeeklySalary": 1160
+    },
+    {
+        "OccupationTitle": "Claims adjusters appraisers examiners and investigators",
+        "MedianWeeklySalary": 998
+    },
+    {
+        "OccupationTitle": "Compliance officers",
+        "MedianWeeklySalary": 1296
+    },
+    {
+        "OccupationTitle": "Cost estimators",
+        "MedianWeeklySalary": 1165
+    },
+    {
+        "OccupationTitle": "Human resources workers",
+        "MedianWeeklySalary": 1161
+    },
+    {
+        "OccupationTitle": "Compensation benefits and job analysis specialists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Training and development specialists",
+        "MedianWeeklySalary": 1092
+    },
+    {
+        "OccupationTitle": "Logisticians",
+        "MedianWeeklySalary": 1019
+    },
+    {
+        "OccupationTitle": "Management analysts",
+        "MedianWeeklySalary": 1532
+    },
+    {
+        "OccupationTitle": "Meeting convention and event planners",
+        "MedianWeeklySalary": 1002
+    },
+    {
+        "OccupationTitle": "Fundraisers",
+        "MedianWeeklySalary": 1262
+    },
+    {
+        "OccupationTitle": "Market research analysts and marketing specialists",
+        "MedianWeeklySalary": 1246
+    },
+    {
+        "OccupationTitle": "Business operations specialists all other",
+        "MedianWeeklySalary": 1150
+    },
+    {
+        "OccupationTitle": "Accountants and auditors",
+        "MedianWeeklySalary": 1209
+    },
+    {
+        "OccupationTitle": "Appraisers and assessors of real estate",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Budget analysts",
+        "MedianWeeklySalary": 1351
+    },
+    {
+        "OccupationTitle": "Credit analysts",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Financial analysts",
+        "MedianWeeklySalary": 1470
+    },
+    {
+        "OccupationTitle": "Personal financial advisors",
+        "MedianWeeklySalary": 1473
+    },
+    {
+        "OccupationTitle": "Insurance underwriters",
+        "MedianWeeklySalary": 1268
+    },
+    {
+        "OccupationTitle": "Financial examiners",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Credit counselors and loan officers",
+        "MedianWeeklySalary": 1168
+    },
+    {
+        "OccupationTitle": "Tax examiners and collectors and revenue agents",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Tax preparers",
+        "MedianWeeklySalary": 1028
+    },
+    {
+        "OccupationTitle": "Financial specialists all other",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Professional and related occupations",
+        "MedianWeeklySalary": 1176
+    },
+    {
+        "OccupationTitle": "Computer and mathematical occupations",
+        "MedianWeeklySalary": 1539
+    },
+    {
+        "OccupationTitle": "Computer and information research scientists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Computer systems analysts",
+        "MedianWeeklySalary": 1521
+    },
+    {
+        "OccupationTitle": "Information security analysts",
+        "MedianWeeklySalary": 1635
+    },
+    {
+        "OccupationTitle": "Computer programmers",
+        "MedianWeeklySalary": 1591
+    },
+    {
+        "OccupationTitle": "Software developers applications and systems software",
+        "MedianWeeklySalary": 1864
+    },
+    {
+        "OccupationTitle": "Web developers",
+        "MedianWeeklySalary": 1333
+    },
+    {
+        "OccupationTitle": "Computer support specialists",
+        "MedianWeeklySalary": 1085
+    },
+    {
+        "OccupationTitle": "Database administrators",
+        "MedianWeeklySalary": 1493
+    },
+    {
+        "OccupationTitle": "Network and computer systems administrators",
+        "MedianWeeklySalary": 1430
+    },
+    {
+        "OccupationTitle": "Computer network architects",
+        "MedianWeeklySalary": 1765
+    },
+    {
+        "OccupationTitle": "Computer occupations all other",
+        "MedianWeeklySalary": 1226
+    },
+    {
+        "OccupationTitle": "Actuaries",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Mathematicians",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Operations research analysts",
+        "MedianWeeklySalary": 1418
+    },
+    {
+        "OccupationTitle": "Statisticians",
+        "MedianWeeklySalary": 1437
+    },
+    {
+        "OccupationTitle": "Miscellaneous mathematical science occupations",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Architecture and engineering occupations",
+        "MedianWeeklySalary": 1484
+    },
+    {
+        "OccupationTitle": "Architects except naval",
+        "MedianWeeklySalary": 1464
+    },
+    {
+        "OccupationTitle": "Surveyors cartographers and photogrammetrists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Aerospace engineers",
+        "MedianWeeklySalary": 1788
+    },
+    {
+        "OccupationTitle": "Agricultural engineers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Biomedical engineers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Chemical engineers",
+        "MedianWeeklySalary": 1858
+    },
+    {
+        "OccupationTitle": "Civil engineers",
+        "MedianWeeklySalary": 1495
+    },
+    {
+        "OccupationTitle": "Computer hardware engineers",
+        "MedianWeeklySalary": 1772
+    },
+    {
+        "OccupationTitle": "Electrical and electronics engineers",
+        "MedianWeeklySalary": 1646
+    },
+    {
+        "OccupationTitle": "Environmental engineers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Industrial engineers including health and safety",
+        "MedianWeeklySalary": 1499
+    },
+    {
+        "OccupationTitle": "Marine engineers and naval architects",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Materials engineers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Mechanical engineers",
+        "MedianWeeklySalary": 1562
+    },
+    {
+        "OccupationTitle": "Mining and geological engineers including mining safety engineers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Nuclear engineers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Petroleum engineers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Engineers all other",
+        "MedianWeeklySalary": 1575
+    },
+    {
+        "OccupationTitle": "Drafters",
+        "MedianWeeklySalary": 1021
+    },
+    {
+        "OccupationTitle": "Engineering technicians except drafters",
+        "MedianWeeklySalary": 1129
+    },
+    {
+        "OccupationTitle": "Surveying and mapping technicians",
+        "MedianWeeklySalary": 984
+    },
+    {
+        "OccupationTitle": "Life physical and social science occupations",
+        "MedianWeeklySalary": 1270
+    },
+    {
+        "OccupationTitle": "Agricultural and food scientists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Biological scientists",
+        "MedianWeeklySalary": 1250
+    },
+    {
+        "OccupationTitle": "Conservation scientists and foresters",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Medical scientists",
+        "MedianWeeklySalary": 1319
+    },
+    {
+        "OccupationTitle": "Life scientists all other",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Astronomers and physicists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Atmospheric and space scientists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Chemists and materials scientists",
+        "MedianWeeklySalary": 1284
+    },
+    {
+        "OccupationTitle": "Environmental scientists and geoscientists",
+        "MedianWeeklySalary": 1336
+    },
+    {
+        "OccupationTitle": "Physical scientists all other",
+        "MedianWeeklySalary": 1455
+    },
+    {
+        "OccupationTitle": "Economists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Survey researchers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Psychologists",
+        "MedianWeeklySalary": 1331
+    },
+    {
+        "OccupationTitle": "Sociologists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Urban and regional planners",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Miscellaneous social scientists and related workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Agricultural and food science technicians",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Biological technicians",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Chemical technicians",
+        "MedianWeeklySalary": 1002
+    },
+    {
+        "OccupationTitle": "Geological and petroleum technicians",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Nuclear technicians",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Social science research assistants",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Miscellaneous life physical and social science technicians",
+        "MedianWeeklySalary": 862
+    },
+    {
+        "OccupationTitle": "Community and social service occupations",
+        "MedianWeeklySalary": 913
+    },
+    {
+        "OccupationTitle": "Counselors",
+        "MedianWeeklySalary": 941
+    },
+    {
+        "OccupationTitle": "Social workers",
+        "MedianWeeklySalary": 907
+    },
+    {
+        "OccupationTitle": "Probation officers and correctional treatment specialists",
+        "MedianWeeklySalary": 944
+    },
+    {
+        "OccupationTitle": "Social and human service assistants",
+        "MedianWeeklySalary": 749
+    },
+    {
+        "OccupationTitle": "Miscellaneous community and social service specialists including health educators and community health workers",
+        "MedianWeeklySalary": 881
+    },
+    {
+        "OccupationTitle": "Clergy",
+        "MedianWeeklySalary": 990
+    },
+    {
+        "OccupationTitle": "Directors religious activities and education",
+        "MedianWeeklySalary": 927
+    },
+    {
+        "OccupationTitle": "Religious workers all other",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Legal occupations",
+        "MedianWeeklySalary": 1467
+    },
+    {
+        "OccupationTitle": "Lawyers",
+        "MedianWeeklySalary": 1947
+    },
+    {
+        "OccupationTitle": "Judicial law clerks",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Judges magistrates and other judicial workers",
+        "MedianWeeklySalary": 1602
+    },
+    {
+        "OccupationTitle": "Paralegals and legal assistants",
+        "MedianWeeklySalary": 948
+    },
+    {
+        "OccupationTitle": "Miscellaneous legal support workers",
+        "MedianWeeklySalary": 1143
+    },
+    {
+        "OccupationTitle": "Education training and library occupations",
+        "MedianWeeklySalary": 1002
+    },
+    {
+        "OccupationTitle": "Postsecondary teachers",
+        "MedianWeeklySalary": 1439
+    },
+    {
+        "OccupationTitle": "Preschool and kindergarten teachers",
+        "MedianWeeklySalary": 648
+    },
+    {
+        "OccupationTitle": "Elementary and middle school teachers",
+        "MedianWeeklySalary": 1010
+    },
+    {
+        "OccupationTitle": "Secondary school teachers",
+        "MedianWeeklySalary": 1141
+    },
+    {
+        "OccupationTitle": "Special education teachers",
+        "MedianWeeklySalary": 1039
+    },
+    {
+        "OccupationTitle": "Other teachers and instructors",
+        "MedianWeeklySalary": 957
+    },
+    {
+        "OccupationTitle": "Archivists curators and museum technicians",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Librarians",
+        "MedianWeeklySalary": 927
+    },
+    {
+        "OccupationTitle": "Library technicians",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Teacher assistants",
+        "MedianWeeklySalary": 556
+    },
+    {
+        "OccupationTitle": "Other education training and library workers",
+        "MedianWeeklySalary": 1095
+    },
+    {
+        "OccupationTitle": "Arts design entertainment sports and media occupations",
+        "MedianWeeklySalary": 1086
+    },
+    {
+        "OccupationTitle": "Artists and related workers",
+        "MedianWeeklySalary": 1078
+    },
+    {
+        "OccupationTitle": "Designers",
+        "MedianWeeklySalary": 1060
+    },
+    {
+        "OccupationTitle": "Actors",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Producers and directors",
+        "MedianWeeklySalary": 1224
+    },
+    {
+        "OccupationTitle": "Athletes coaches umpires and related workers",
+        "MedianWeeklySalary": 1044
+    },
+    {
+        "OccupationTitle": "Dancers and choreographers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Musicians singers and related workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Entertainers and performers sports and related workers all other",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Announcers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "News analysts reporters and correspondents",
+        "MedianWeeklySalary": 1012
+    },
+    {
+        "OccupationTitle": "Public relations specialists",
+        "MedianWeeklySalary": 1313
+    },
+    {
+        "OccupationTitle": "Editors",
+        "MedianWeeklySalary": 1112
+    },
+    {
+        "OccupationTitle": "Technical writers",
+        "MedianWeeklySalary": 1318
+    },
+    {
+        "OccupationTitle": "Writers and authors",
+        "MedianWeeklySalary": 1233
+    },
+    {
+        "OccupationTitle": "Miscellaneous media and communication workers",
+        "MedianWeeklySalary": 880
+    },
+    {
+        "OccupationTitle": "Broadcast and sound engineering technicians and radio operators",
+        "MedianWeeklySalary": 1028
+    },
+    {
+        "OccupationTitle": "Photographers",
+        "MedianWeeklySalary": 904
+    },
+    {
+        "OccupationTitle": "Television video and motion picture camera operators and editors",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Media and communication equipment workers all other",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Healthcare practitioners and technical occupations",
+        "MedianWeeklySalary": 1140
+    },
+    {
+        "OccupationTitle": "Chiropractors",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Dentists",
+        "MedianWeeklySalary": 1884
+    },
+    {
+        "OccupationTitle": "Dietitians and nutritionists",
+        "MedianWeeklySalary": 967
+    },
+    {
+        "OccupationTitle": "Optometrists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Pharmacists",
+        "MedianWeeklySalary": 2071
+    },
+    {
+        "OccupationTitle": "Physicians and surgeons",
+        "MedianWeeklySalary": 2001
+    },
+    {
+        "OccupationTitle": "Physician assistants",
+        "MedianWeeklySalary": 1752
+    },
+    {
+        "OccupationTitle": "Podiatrists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Audiologists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Occupational therapists",
+        "MedianWeeklySalary": 1283
+    },
+    {
+        "OccupationTitle": "Physical therapists",
+        "MedianWeeklySalary": 1395
+    },
+    {
+        "OccupationTitle": "Radiation therapists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Recreational therapists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Respiratory therapists",
+        "MedianWeeklySalary": 1074
+    },
+    {
+        "OccupationTitle": "Speech-language pathologists",
+        "MedianWeeklySalary": 1215
+    },
+    {
+        "OccupationTitle": "Exercise physiologists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Therapists all other",
+        "MedianWeeklySalary": 1047
+    },
+    {
+        "OccupationTitle": "Veterinarians",
+        "MedianWeeklySalary": 1677
+    },
+    {
+        "OccupationTitle": "Registered nurses",
+        "MedianWeeklySalary": 1167
+    },
+    {
+        "OccupationTitle": "Nurse anesthetists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Nurse midwives",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Nurse practitioners",
+        "MedianWeeklySalary": 1894
+    },
+    {
+        "OccupationTitle": "Health diagnosing and treating practitioners all other",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Clinical laboratory technologists and technicians",
+        "MedianWeeklySalary": 893
+    },
+    {
+        "OccupationTitle": "Dental hygienists",
+        "MedianWeeklySalary": 1047
+    },
+    {
+        "OccupationTitle": "Diagnostic related technologists and technicians",
+        "MedianWeeklySalary": 1140
+    },
+    {
+        "OccupationTitle": "Emergency medical technicians and paramedics",
+        "MedianWeeklySalary": 894
+    },
+    {
+        "OccupationTitle": "Health practitioner support technologists and technicians",
+        "MedianWeeklySalary": 691
+    },
+    {
+        "OccupationTitle": "Licensed practical and licensed vocational nurses",
+        "MedianWeeklySalary": 757
+    },
+    {
+        "OccupationTitle": "Medical records and health information technicians",
+        "MedianWeeklySalary": 765
+    },
+    {
+        "OccupationTitle": "Opticians dispensing",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Miscellaneous health technologists and technicians",
+        "MedianWeeklySalary": 873
+    },
+    {
+        "OccupationTitle": "Other healthcare practitioners and technical occupations",
+        "MedianWeeklySalary": 1022
+    },
+    {
+        "OccupationTitle": "Service occupations",
+        "MedianWeeklySalary": 569
+    },
+    {
+        "OccupationTitle": "Healthcare support occupations",
+        "MedianWeeklySalary": 561
+    },
+    {
+        "OccupationTitle": "Nursing psychiatric and home health aides",
+        "MedianWeeklySalary": 516
+    },
+    {
+        "OccupationTitle": "Occupational therapy assistants and aides",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Physical therapist assistants and aides",
+        "MedianWeeklySalary": 848
+    },
+    {
+        "OccupationTitle": "Massage therapists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Dental assistants",
+        "MedianWeeklySalary": 606
+    },
+    {
+        "OccupationTitle": "Medical assistants",
+        "MedianWeeklySalary": 612
+    },
+    {
+        "OccupationTitle": "Medical transcriptionists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Pharmacy aides",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Veterinary assistants and laboratory animal caretakers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Phlebotomists",
+        "MedianWeeklySalary": 624
+    },
+    {
+        "OccupationTitle": "Miscellaneous healthcare support occupations including medical equipment preparers",
+        "MedianWeeklySalary": 598
+    },
+    {
+        "OccupationTitle": "Protective service occupations",
+        "MedianWeeklySalary": 848
+    },
+    {
+        "OccupationTitle": "First-line supervisors of correctional officers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "First-line supervisors of police and detectives",
+        "MedianWeeklySalary": 1460
+    },
+    {
+        "OccupationTitle": "First-line supervisors of fire fighting and prevention workers",
+        "MedianWeeklySalary": 1304
+    },
+    {
+        "OccupationTitle": "First-line supervisors of protective service workers all other",
+        "MedianWeeklySalary": 839
+    },
+    {
+        "OccupationTitle": "Firefighters",
+        "MedianWeeklySalary": 1126
+    },
+    {
+        "OccupationTitle": "Fire inspectors",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Bailiffs correctional officers and jailers",
+        "MedianWeeklySalary": 742
+    },
+    {
+        "OccupationTitle": "Detectives and criminal investigators",
+        "MedianWeeklySalary": 1331
+    },
+    {
+        "OccupationTitle": "Fish and game wardens",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Parking enforcement workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Police and sheriff's patrol officers",
+        "MedianWeeklySalary": 1092
+    },
+    {
+        "OccupationTitle": "Transit and railroad police",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Animal control workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Private detectives and investigators",
+        "MedianWeeklySalary": 851
+    },
+    {
+        "OccupationTitle": "Security guards and gaming surveillance officers",
+        "MedianWeeklySalary": 596
+    },
+    {
+        "OccupationTitle": "Crossing guards",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Transportation security screeners",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Lifeguards and other recreational and all other protective service workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Food preparation and serving related occupations",
+        "MedianWeeklySalary": 501
+    },
+    {
+        "OccupationTitle": "Chefs and head cooks",
+        "MedianWeeklySalary": 615
+    },
+    {
+        "OccupationTitle": "First-line supervisors of food preparation and serving workers",
+        "MedianWeeklySalary": 583
+    },
+    {
+        "OccupationTitle": "Cooks",
+        "MedianWeeklySalary": 486
+    },
+    {
+        "OccupationTitle": "Food preparation workers",
+        "MedianWeeklySalary": 463
+    },
+    {
+        "OccupationTitle": "Bartenders",
+        "MedianWeeklySalary": 581
+    },
+    {
+        "OccupationTitle": "Combined food preparation and serving workers including fast food",
+        "MedianWeeklySalary": 436
+    },
+    {
+        "OccupationTitle": "Counter attendants cafeteria food concession and coffee shop",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Waiters and waitresses",
+        "MedianWeeklySalary": 496
+    },
+    {
+        "OccupationTitle": "Food servers nonrestaurant",
+        "MedianWeeklySalary": 484
+    },
+    {
+        "OccupationTitle": "Dining room and cafeteria attendants and bartender helpers",
+        "MedianWeeklySalary": 447
+    },
+    {
+        "OccupationTitle": "Dishwashers",
+        "MedianWeeklySalary": 441
+    },
+    {
+        "OccupationTitle": "Hosts and hostesses restaurant lounge and coffee shop",
+        "MedianWeeklySalary": 471
+    },
+    {
+        "OccupationTitle": "Food preparation and serving related workers all other",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Building and grounds cleaning and maintenance occupations",
+        "MedianWeeklySalary": 551
+    },
+    {
+        "OccupationTitle": "First-line supervisors of housekeeping and janitorial workers",
+        "MedianWeeklySalary": 711
+    },
+    {
+        "OccupationTitle": "First-line supervisors of landscaping lawn service and groundskeeping workers",
+        "MedianWeeklySalary": 770
+    },
+    {
+        "OccupationTitle": "Janitors and building cleaners",
+        "MedianWeeklySalary": 571
+    },
+    {
+        "OccupationTitle": "Maids and housekeeping cleaners",
+        "MedianWeeklySalary": 467
+    },
+    {
+        "OccupationTitle": "Pest control workers",
+        "MedianWeeklySalary": 688
+    },
+    {
+        "OccupationTitle": "Grounds maintenance workers",
+        "MedianWeeklySalary": 572
+    },
+    {
+        "OccupationTitle": "Personal care and service occupations",
+        "MedianWeeklySalary": 544
+    },
+    {
+        "OccupationTitle": "First-line supervisors of gaming workers",
+        "MedianWeeklySalary": 793
+    },
+    {
+        "OccupationTitle": "First-line supervisors of personal service workers",
+        "MedianWeeklySalary": 747
+    },
+    {
+        "OccupationTitle": "Animal trainers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Nonfarm animal caretakers",
+        "MedianWeeklySalary": 555
+    },
+    {
+        "OccupationTitle": "Gaming services workers",
+        "MedianWeeklySalary": 654
+    },
+    {
+        "OccupationTitle": "Motion picture projectionists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Ushers lobby attendants and ticket takers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Miscellaneous entertainment attendants and related workers",
+        "MedianWeeklySalary": 523
+    },
+    {
+        "OccupationTitle": "Embalmers and funeral attendants",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Morticians undertakers and funeral directors",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Barbers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Hairdressers hairstylists and cosmetologists",
+        "MedianWeeklySalary": 545
+    },
+    {
+        "OccupationTitle": "Miscellaneous personal appearance workers",
+        "MedianWeeklySalary": 523
+    },
+    {
+        "OccupationTitle": "Baggage porters bellhops and concierges",
+        "MedianWeeklySalary": 620
+    },
+    {
+        "OccupationTitle": "Tour and travel guides",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Childcare workers",
+        "MedianWeeklySalary": 500
+    },
+    {
+        "OccupationTitle": "Personal care aides",
+        "MedianWeeklySalary": 500
+    },
+    {
+        "OccupationTitle": "Recreation and fitness workers",
+        "MedianWeeklySalary": 603
+    },
+    {
+        "OccupationTitle": "Residential advisors",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Personal care and service workers all other",
+        "MedianWeeklySalary": 522
+    },
+    {
+        "OccupationTitle": "Sales and office occupations",
+        "MedianWeeklySalary": 742
+    },
+    {
+        "OccupationTitle": "Sales and related occupations",
+        "MedianWeeklySalary": 798
+    },
+    {
+        "OccupationTitle": "First-line supervisors of retail sales workers",
+        "MedianWeeklySalary": 795
+    },
+    {
+        "OccupationTitle": "First-line supervisors of non-retail sales workers",
+        "MedianWeeklySalary": 1153
+    },
+    {
+        "OccupationTitle": "Cashiers",
+        "MedianWeeklySalary": 465
+    },
+    {
+        "OccupationTitle": "Counter and rental clerks",
+        "MedianWeeklySalary": 729
+    },
+    {
+        "OccupationTitle": "Parts salespersons",
+        "MedianWeeklySalary": 702
+    },
+    {
+        "OccupationTitle": "Retail salespersons",
+        "MedianWeeklySalary": 657
+    },
+    {
+        "OccupationTitle": "Advertising sales agents",
+        "MedianWeeklySalary": 998
+    },
+    {
+        "OccupationTitle": "Insurance sales agents",
+        "MedianWeeklySalary": 859
+    },
+    {
+        "OccupationTitle": "Securities commodities and financial services sales agents",
+        "MedianWeeklySalary": 1440
+    },
+    {
+        "OccupationTitle": "Travel agents",
+        "MedianWeeklySalary": 789
+    },
+    {
+        "OccupationTitle": "Sales representatives services all other",
+        "MedianWeeklySalary": 1230
+    },
+    {
+        "OccupationTitle": "Sales representatives wholesale and manufacturing",
+        "MedianWeeklySalary": 1161
+    },
+    {
+        "OccupationTitle": "Models demonstrators and product promoters",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Real estate brokers and sales agents",
+        "MedianWeeklySalary": 1019
+    },
+    {
+        "OccupationTitle": "Sales engineers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Telemarketers",
+        "MedianWeeklySalary": 559
+    },
+    {
+        "OccupationTitle": "Door-to-door sales workers news and street vendors and related workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Sales and related workers all other",
+        "MedianWeeklySalary": 1036
+    },
+    {
+        "OccupationTitle": "Office and administrative support occupations",
+        "MedianWeeklySalary": 717
+    },
+    {
+        "OccupationTitle": "First-line supervisors of office and administrative support workers",
+        "MedianWeeklySalary": 885
+    },
+    {
+        "OccupationTitle": "Switchboard operators including answering service",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Telephone operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Communications equipment operators all other",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Bill and account collectors",
+        "MedianWeeklySalary": 711
+    },
+    {
+        "OccupationTitle": "Billing and posting clerks",
+        "MedianWeeklySalary": 721
+    },
+    {
+        "OccupationTitle": "Bookkeeping accounting and auditing clerks",
+        "MedianWeeklySalary": 742
+    },
+    {
+        "OccupationTitle": "Gaming cage workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Payroll and timekeeping clerks",
+        "MedianWeeklySalary": 827
+    },
+    {
+        "OccupationTitle": "Procurement clerks",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Tellers",
+        "MedianWeeklySalary": 584
+    },
+    {
+        "OccupationTitle": "Financial clerks all other",
+        "MedianWeeklySalary": 839
+    },
+    {
+        "OccupationTitle": "Brokerage clerks",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Correspondence clerks",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Court municipal and license clerks",
+        "MedianWeeklySalary": 897
+    },
+    {
+        "OccupationTitle": "Credit authorizers checkers and clerks",
+        "MedianWeeklySalary": 818
+    },
+    {
+        "OccupationTitle": "Customer service representatives",
+        "MedianWeeklySalary": 683
+    },
+    {
+        "OccupationTitle": "Eligibility interviewers government programs",
+        "MedianWeeklySalary": 887
+    },
+    {
+        "OccupationTitle": "File clerks",
+        "MedianWeeklySalary": 650
+    },
+    {
+        "OccupationTitle": "Hotel motel and resort desk clerks",
+        "MedianWeeklySalary": 520
+    },
+    {
+        "OccupationTitle": "Interviewers except eligibility and loan",
+        "MedianWeeklySalary": 702
+    },
+    {
+        "OccupationTitle": "Library assistants clerical",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Loan interviewers and clerks",
+        "MedianWeeklySalary": 827
+    },
+    {
+        "OccupationTitle": "New accounts clerks",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Order clerks",
+        "MedianWeeklySalary": 659
+    },
+    {
+        "OccupationTitle": "Human resources assistants except payroll and timekeeping",
+        "MedianWeeklySalary": 816
+    },
+    {
+        "OccupationTitle": "Receptionists and information clerks",
+        "MedianWeeklySalary": 605
+    },
+    {
+        "OccupationTitle": "Reservation and transportation ticket agents and travel clerks",
+        "MedianWeeklySalary": 745
+    },
+    {
+        "OccupationTitle": "Information and record clerks all other",
+        "MedianWeeklySalary": 733
+    },
+    {
+        "OccupationTitle": "Cargo and freight agents",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Couriers and messengers",
+        "MedianWeeklySalary": 786
+    },
+    {
+        "OccupationTitle": "Dispatchers",
+        "MedianWeeklySalary": 783
+    },
+    {
+        "OccupationTitle": "Meter readers utilities",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Postal service clerks",
+        "MedianWeeklySalary": 765
+    },
+    {
+        "OccupationTitle": "Postal service mail carriers",
+        "MedianWeeklySalary": 931
+    },
+    {
+        "OccupationTitle": "Postal service mail sorters processors and processing machine operators",
+        "MedianWeeklySalary": 980
+    },
+    {
+        "OccupationTitle": "Production planning and expediting clerks",
+        "MedianWeeklySalary": 870
+    },
+    {
+        "OccupationTitle": "Shipping receiving and traffic clerks",
+        "MedianWeeklySalary": 632
+    },
+    {
+        "OccupationTitle": "Stock clerks and order fillers",
+        "MedianWeeklySalary": 562
+    },
+    {
+        "OccupationTitle": "Weighers measurers checkers and samplers recordkeeping",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Secretaries and administrative assistants",
+        "MedianWeeklySalary": 759
+    },
+    {
+        "OccupationTitle": "Computer operators",
+        "MedianWeeklySalary": 763
+    },
+    {
+        "OccupationTitle": "Data entry keyers",
+        "MedianWeeklySalary": 655
+    },
+    {
+        "OccupationTitle": "Word processors and typists",
+        "MedianWeeklySalary": 858
+    },
+    {
+        "OccupationTitle": "Desktop publishers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Insurance claims and policy processing clerks",
+        "MedianWeeklySalary": 719
+    },
+    {
+        "OccupationTitle": "Mail clerks and mail machine operators except postal service",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Office clerks general",
+        "MedianWeeklySalary": 697
+    },
+    {
+        "OccupationTitle": "Office machine operators except computer",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Proofreaders and copy markers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Statistical assistants",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Office and administrative support workers all other",
+        "MedianWeeklySalary": 794
+    },
+    {
+        "OccupationTitle": "Natural resources construction and maintenance occupations",
+        "MedianWeeklySalary": 824
+    },
+    {
+        "OccupationTitle": "Farming fishing and forestry occupations",
+        "MedianWeeklySalary": 581
+    },
+    {
+        "OccupationTitle": "First-line supervisors of farming fishing and forestry workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Agricultural inspectors",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Animal breeders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Graders and sorters agricultural products",
+        "MedianWeeklySalary": 593
+    },
+    {
+        "OccupationTitle": "Miscellaneous agricultural workers",
+        "MedianWeeklySalary": 552
+    },
+    {
+        "OccupationTitle": "Fishers and related fishing workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Hunters and trappers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Forest and conservation workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Logging workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Construction and extraction occupations",
+        "MedianWeeklySalary": 808
+    },
+    {
+        "OccupationTitle": "First-line supervisors of construction trades and extraction workers",
+        "MedianWeeklySalary": 1059
+    },
+    {
+        "OccupationTitle": "Boilermakers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Brickmasons blockmasons and stonemasons",
+        "MedianWeeklySalary": 763
+    },
+    {
+        "OccupationTitle": "Carpenters",
+        "MedianWeeklySalary": 756
+    },
+    {
+        "OccupationTitle": "Carpet floor and tile installers and finishers",
+        "MedianWeeklySalary": 692
+    },
+    {
+        "OccupationTitle": "Cement masons concrete finishers and terrazzo workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Construction laborers",
+        "MedianWeeklySalary": 717
+    },
+    {
+        "OccupationTitle": "Paving surfacing and tamping equipment operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Pile-driver operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Operating engineers and other construction equipment operators",
+        "MedianWeeklySalary": 905
+    },
+    {
+        "OccupationTitle": "Drywall installers ceiling tile installers and tapers",
+        "MedianWeeklySalary": 704
+    },
+    {
+        "OccupationTitle": "Electricians",
+        "MedianWeeklySalary": 965
+    },
+    {
+        "OccupationTitle": "Glaziers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Insulation workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Painters construction and maintenance",
+        "MedianWeeklySalary": 679
+    },
+    {
+        "OccupationTitle": "Paperhangers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Pipelayers plumbers pipefitters and steamfitters",
+        "MedianWeeklySalary": 921
+    },
+    {
+        "OccupationTitle": "Plasterers and stucco masons",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Reinforcing iron and rebar workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Roofers",
+        "MedianWeeklySalary": 687
+    },
+    {
+        "OccupationTitle": "Sheet metal workers",
+        "MedianWeeklySalary": 881
+    },
+    {
+        "OccupationTitle": "Structural iron and steel workers",
+        "MedianWeeklySalary": 934
+    },
+    {
+        "OccupationTitle": "Solar photovoltaic installers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Helpers construction trades",
+        "MedianWeeklySalary": 620
+    },
+    {
+        "OccupationTitle": "Construction and building inspectors",
+        "MedianWeeklySalary": 996
+    },
+    {
+        "OccupationTitle": "Elevator installers and repairers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Fence erectors",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Hazardous materials removal workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Highway maintenance workers",
+        "MedianWeeklySalary": 781
+    },
+    {
+        "OccupationTitle": "Rail-track laying and maintenance equipment operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Septic tank servicers and sewer pipe cleaners",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Miscellaneous construction and related workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Derrick rotary drill and service unit operators oil gas and mining",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Earth drillers except oil and gas",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Explosives workers ordnance handling experts and blasters",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Mining machine operators",
+        "MedianWeeklySalary": 1402
+    },
+    {
+        "OccupationTitle": "Roof bolters mining",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Roustabouts oil and gas",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Helpers--extraction workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Other extraction workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Installation maintenance and repair occupations",
+        "MedianWeeklySalary": 934
+    },
+    {
+        "OccupationTitle": "First-line supervisors of mechanics installers and repairers",
+        "MedianWeeklySalary": 1087
+    },
+    {
+        "OccupationTitle": "Computer automated teller and office machine repairers",
+        "MedianWeeklySalary": 932
+    },
+    {
+        "OccupationTitle": "Radio and telecommunications equipment installers and repairers",
+        "MedianWeeklySalary": 1131
+    },
+    {
+        "OccupationTitle": "Avionics technicians",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Electric motor power tool and related repairers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Electrical and electronics installers and repairers transportation equipment",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Electrical and electronics repairers industrial and utility",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Electronic equipment installers and repairers motor vehicles",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Electronic home entertainment equipment installers and repairers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Security and fire alarm systems installers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Aircraft mechanics and service technicians",
+        "MedianWeeklySalary": 1117
+    },
+    {
+        "OccupationTitle": "Automotive body and related repairers",
+        "MedianWeeklySalary": 820
+    },
+    {
+        "OccupationTitle": "Automotive glass installers and repairers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Automotive service technicians and mechanics",
+        "MedianWeeklySalary": 800
+    },
+    {
+        "OccupationTitle": "Bus and truck mechanics and diesel engine specialists",
+        "MedianWeeklySalary": 942
+    },
+    {
+        "OccupationTitle": "Heavy vehicle and mobile equipment service technicians and mechanics",
+        "MedianWeeklySalary": 1013
+    },
+    {
+        "OccupationTitle": "Small engine mechanics",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Miscellaneous vehicle and mobile equipment mechanics installers and repairers",
+        "MedianWeeklySalary": 611
+    },
+    {
+        "OccupationTitle": "Control and valve installers and repairers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Heating air conditioning and refrigeration mechanics and installers",
+        "MedianWeeklySalary": 890
+    },
+    {
+        "OccupationTitle": "Home appliance repairers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Industrial and refractory machinery mechanics",
+        "MedianWeeklySalary": 981
+    },
+    {
+        "OccupationTitle": "Maintenance and repair workers general",
+        "MedianWeeklySalary": 870
+    },
+    {
+        "OccupationTitle": "Maintenance workers machinery",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Millwrights",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Electrical power-line installers and repairers",
+        "MedianWeeklySalary": 1300
+    },
+    {
+        "OccupationTitle": "Telecommunications line installers and repairers",
+        "MedianWeeklySalary": 1014
+    },
+    {
+        "OccupationTitle": "Precision instrument and equipment repairers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Wind turbine service technicians",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Coin vending and amusement machine servicers and repairers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Commercial divers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Locksmiths and safe repairers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Manufactured building and mobile home installers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Riggers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Signal and track switch repairers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Helpers--installation maintenance and repair workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Other installation maintenance and repair workers",
+        "MedianWeeklySalary": 827
+    },
+    {
+        "OccupationTitle": "Production transportation and material moving occupations",
+        "MedianWeeklySalary": 707
+    },
+    {
+        "OccupationTitle": "Production occupations",
+        "MedianWeeklySalary": 723
+    },
+    {
+        "OccupationTitle": "First-line supervisors of production and operating workers",
+        "MedianWeeklySalary": 980
+    },
+    {
+        "OccupationTitle": "Aircraft structure surfaces rigging and systems assemblers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Electrical electronics and electromechanical assemblers",
+        "MedianWeeklySalary": 605
+    },
+    {
+        "OccupationTitle": "Engine and other machine assemblers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Structural metal fabricators and fitters",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Miscellaneous assemblers and fabricators",
+        "MedianWeeklySalary": 663
+    },
+    {
+        "OccupationTitle": "Bakers",
+        "MedianWeeklySalary": 549
+    },
+    {
+        "OccupationTitle": "Butchers and other meat poultry and fish processing workers",
+        "MedianWeeklySalary": 606
+    },
+    {
+        "OccupationTitle": "Food and tobacco roasting baking and drying machine operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Food batchmakers",
+        "MedianWeeklySalary": 557
+    },
+    {
+        "OccupationTitle": "Food cooking machine operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Food processing workers all other",
+        "MedianWeeklySalary": 624
+    },
+    {
+        "OccupationTitle": "Computer control programmers and operators",
+        "MedianWeeklySalary": 882
+    },
+    {
+        "OccupationTitle": "Extruding and drawing machine setters operators and tenders metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Forging machine setters operators and tenders metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Rolling machine setters operators and tenders metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Cutting punching and press machine setters operators and tenders metal and plastic",
+        "MedianWeeklySalary": 745
+    },
+    {
+        "OccupationTitle": "Drilling and boring machine tool setters operators and tenders metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Grinding lapping polishing and buffing machine tool setters operators and tenders metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Lathe and turning machine tool setters operators and tenders metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Milling and planing machine setters operators and tenders metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Machinists",
+        "MedianWeeklySalary": 863
+    },
+    {
+        "OccupationTitle": "Metal furnace operators tenders pourers and casters",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Model makers and patternmakers metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Molders and molding machine setters operators and tenders metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Multiple machine tool setters operators and tenders metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Tool and die makers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Welding soldering and brazing workers",
+        "MedianWeeklySalary": 840
+    },
+    {
+        "OccupationTitle": "Heat treating equipment setters operators and tenders metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Layout workers metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Plating and coating machine setters operators and tenders metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Tool grinders filers and sharpeners",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Metal workers and plastic workers all other",
+        "MedianWeeklySalary": 698
+    },
+    {
+        "OccupationTitle": "Prepress technicians and workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Printing press operators",
+        "MedianWeeklySalary": 754
+    },
+    {
+        "OccupationTitle": "Print binding and finishing workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Laundry and dry-cleaning workers",
+        "MedianWeeklySalary": 432
+    },
+    {
+        "OccupationTitle": "Pressers textile garment and related materials",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Sewing machine operators",
+        "MedianWeeklySalary": 498
+    },
+    {
+        "OccupationTitle": "Shoe and leather workers and repairers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Shoe machine operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Tailors dressmakers and sewers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Textile bleaching and dyeing machine operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Textile cutting machine setters operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Textile knitting and weaving machine setters operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Textile winding twisting and drawing out machine setters operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Extruding and forming machine setters operators and tenders synthetic and glass fibers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Fabric and apparel patternmakers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Upholsterers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Textile apparel and furnishings workers all other",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Cabinetmakers and bench carpenters",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Furniture finishers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Model makers and patternmakers wood",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Sawing machine setters operators and tenders wood",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Woodworking machine setters operators and tenders except sawing",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Woodworkers all other",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Power plant operators distributors and dispatchers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Stationary engineers and boiler operators",
+        "MedianWeeklySalary": 1073
+    },
+    {
+        "OccupationTitle": "Water and wastewater treatment plant and system operators",
+        "MedianWeeklySalary": 943
+    },
+    {
+        "OccupationTitle": "Miscellaneous plant and system operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Chemical processing machine setters operators and tenders",
+        "MedianWeeklySalary": 894
+    },
+    {
+        "OccupationTitle": "Crushing grinding polishing mixing and blending workers",
+        "MedianWeeklySalary": 672
+    },
+    {
+        "OccupationTitle": "Cutting workers",
+        "MedianWeeklySalary": 595
+    },
+    {
+        "OccupationTitle": "Extruding forming pressing and compacting machine setters operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Furnace kiln oven drier and kettle operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Inspectors testers sorters samplers and weighers",
+        "MedianWeeklySalary": 771
+    },
+    {
+        "OccupationTitle": "Jewelers and precious stone and metal workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Medical dental and ophthalmic laboratory technicians",
+        "MedianWeeklySalary": 741
+    },
+    {
+        "OccupationTitle": "Packaging and filling machine operators and tenders",
+        "MedianWeeklySalary": 529
+    },
+    {
+        "OccupationTitle": "Painting workers",
+        "MedianWeeklySalary": 710
+    },
+    {
+        "OccupationTitle": "Photographic process workers and processing machine operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Semiconductor processors",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Adhesive bonding machine operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Cleaning washing and metal pickling equipment operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Cooling and freezing equipment operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Etchers and engravers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Molders shapers and casters except metal and plastic",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Paper goods machine setters operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Tire builders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Helpers--production workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Production workers all other",
+        "MedianWeeklySalary": 678
+    },
+    {
+        "OccupationTitle": "Transportation and material moving occupations",
+        "MedianWeeklySalary": 689
+    },
+    {
+        "OccupationTitle": "Supervisors of transportation and material moving workers",
+        "MedianWeeklySalary": 850
+    },
+    {
+        "OccupationTitle": "Aircraft pilots and flight engineers",
+        "MedianWeeklySalary": 1743
+    },
+    {
+        "OccupationTitle": "Air traffic controllers and airfield operations specialists",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Flight attendants",
+        "MedianWeeklySalary": 878
+    },
+    {
+        "OccupationTitle": "Ambulance drivers and attendants except emergency medical technicians",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Bus drivers",
+        "MedianWeeklySalary": 655
+    },
+    {
+        "OccupationTitle": "Driver/sales workers and truck drivers",
+        "MedianWeeklySalary": 817
+    },
+    {
+        "OccupationTitle": "Taxi drivers and chauffeurs",
+        "MedianWeeklySalary": 611
+    },
+    {
+        "OccupationTitle": "Motor vehicle operators all other",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Locomotive engineers and operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Railroad brake signal and switch operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Railroad conductors and yardmasters",
+        "MedianWeeklySalary": 1132
+    },
+    {
+        "OccupationTitle": "Subway streetcar and other rail transportation workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Sailors and marine oilers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Ship and boat captains and operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Ship engineers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Bridge and lock tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Parking lot attendants",
+        "MedianWeeklySalary": 575
+    },
+    {
+        "OccupationTitle": "Automotive and watercraft service attendants",
+        "MedianWeeklySalary": 570
+    },
+    {
+        "OccupationTitle": "Transportation inspectors",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Transportation attendants except flight attendants",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Other transportation workers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Conveyor operators and tenders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Crane and tower operators",
+        "MedianWeeklySalary": 1122
+    },
+    {
+        "OccupationTitle": "Dredge excavating and loading machine operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Hoist and winch operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Industrial truck and tractor operators",
+        "MedianWeeklySalary": 641
+    },
+    {
+        "OccupationTitle": "Cleaners of vehicles and equipment",
+        "MedianWeeklySalary": 538
+    },
+    {
+        "OccupationTitle": "Laborers and freight stock and material movers hand",
+        "MedianWeeklySalary": 603
+    },
+    {
+        "OccupationTitle": "Machine feeders and offbearers",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Packers and packagers hand",
+        "MedianWeeklySalary": 495
+    },
+    {
+        "OccupationTitle": "Pumping station operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Refuse and recyclable material collectors",
+        "MedianWeeklySalary": 524
+    },
+    {
+        "OccupationTitle": "Mine shuttle car operators",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Tank car truck and ship loaders",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "Material moving workers all other",
+        "MedianWeeklySalary": "-"
+    },
+    {
+        "OccupationTitle": "info2-scrub.html:5745:29\n"
+    }
+]

@@ -1,0 +1,5 @@
+calculating the best school for the money
+store tuition, grad rate, quality of education
+pass in your age, gpa, location, how much your parents make (or you), desired major, desired career
+calculate from the median career income how long it will take to pay the tuition
+organize search results from shortest pay off to longest

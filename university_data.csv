@@ -1,0 +1,101 @@
+UniversityName,City,State,OutCost,InCost
+Princeton University,Princeton,NJ,51870,51870
+​Harvard University,Cambridge,MA,51925,51925
+​Columbia University,New York,NY,61850,6850
+​Massachusetts Institute of Technology,Cambridge,MA,53790,53790
+​Yale University,New Haven,CT,55500,55500
+​Stanford University,Stanford,CA,53529,53529
+​University of Chicago,Chicago,IL,59298,59298
+​University of Pennsylvania,Philadelphia,PA,57770,57770
+​Northwestern University,Evanston,IL,56691,56691
+​Duke University,Durham,NC,58198,58198
+​Johns Hopkins University,Baltimore,MD,55350,55350
+​California Institute of Technology,Pasadena,CA,54600,54600
+​Dartmouth College,Hanover,NH,57204,57204
+​Brown University,Providence,RI,58504,58504
+​University of Notre Dame,Notre Dame,IN,55553,55553
+​Vanderbilt University,Nashville,TN,52070,52070
+​Cornell University,Ithaca,NY,57222,57222
+​Rice University,Houston,TX,49112,49112
+​Washington University in St. Louis,St. Louis,MO,55292,55292
+​University of California--Los Angeles,Los Angeles,CA,42218,13226
+​Emory University,Atlanta,GA,53804,53804
+​University of California--Berkeley,Berkeley,CA,43176,14184
+​University of Southern California,Los Angeles,CA,58195,58195
+​Georgetown University,Washington,DC,56058,56058
+​Carnegie Mellon University,Pittsburgh,PA,57119,57119
+​University of Michigan--Ann Arbor,Ann Arbor,MI,51200,15558
+​Wake Forest University,Winston-Salem,NC,55440,55440
+​University of Virginia,Charlottesville,VA,50920,17891
+​Georgia Institute of Technology,Atlanta,GA,33794,12682
+​New York University,New York,NY,53308,53308
+​Tufts University,Medford,MA,58578,58578
+​University of North Carolina--Chapel Hill,Chapel Hill,NC,36222,9043
+​University of Rochester,Rochester,NY,56026,56026
+​University of California--Santa Barbara,Santa Barbara,CA,43383,14391
+​University of Florida,Gainesville,FL,28658,6380
+​University of California--Irvine,Irvine,CA,43481,13727
+​Boston College,Chestnut Hill,MA,57910,57910
+​University of California--San Diego,La Jolla,CA,43162,14170
+​University of California--Davis,Davis,CA,43484,14492
+​Boston University,Boston,MA,55892,55892
+​Brandeis University,Waltham,MA,57561,57561
+​Case Western Reserve University,Cleveland,OH,50904,50904
+​College of William and Mary,Williamsburg,VA,46283,22922
+​Northeastern University,Boston,MA,53506,53506
+​Tulane University,New Orleans,LA,56800,56800
+​University of Wisconsin--Madison,Madison,WI,37785,10725
+​Villanova University,Villanova,PA,55430,55430
+​University of Illinois--Urbana-Champaign,Champaign,IL,33352,16210
+​University of Texas--Austin,Austin,TX,38228,10818
+​Lehigh University,Bethlehem,PA,55240,55240
+​Pepperdine University,Malibu,CA,55892,55892
+​Rensselaer Polytechnic Institute,Troy,NY,55378,55378
+​University of Georgia,Athens,GA,31120,12080
+​Ohio State University--Columbus,Columbus,OH,32061,11084
+​Santa Clara University,Santa Clara,CA,53634,53634
+​Syracuse University,Syracuse,NY,53849,53849
+​Florida State University,Tallahassee,FL,21673,6507
+​Pennsylvania State University--University Park,University Park,PA,35514,18450
+​Purdue University--West Lafayette,West Lafayette,IN,28794,9992
+​University of Miami,Coral Gables,FL,51930,51930
+​University of Pittsburgh,Pittsburgh,PA,33746,19718
+​Rutgers University--New Brunswick,Piscataway,NJ,32189,15407
+​University of Washington,Seattle,WA,38796,11465
+​Loyola Marymount University,Los Angeles,CA,50283,50283
+​Southern Methodist University,Dallas,TX,56560,56560
+​University of Connecticut,Storrs,CT,39894,17226
+​University of Maryland--College Park,College Park,MD,36890,10778
+​University of Massachusetts--Amherst,Amherst,MA,35710,16389
+​Worcester Polytechnic Institute,Worcester,MA,52322,52322
+​Clemson University,Clemson,SC,38112,15120
+​George Washington University,Washington,DC,56935,56935
+​Texas A&M University--College Station,College Station,TX,37726,11232
+​University of Minnesota--Twin Cities,Minneapolis,MN,33325,15027
+​Fordham University,New York,NY,54093,54093
+​Stevens Institute of Technology,Hoboken,NJ,54014,54014
+​Virginia Tech,Blacksburg,VA,32835,13691
+​American University,Washington,DC,49889,49889
+​Brigham Young University--Provo,Provo,UT,5790,5790
+​Baylor University,Waco,TX,47364,47364
+​Binghamton University--SUNY,Binghamton,NY,27791,10201
+​Gonzaga University,Spokane,WA,45140,45140
+​Indiana University--Bloomington,Bloomington,IN,36514,10949
+​University at Buffalo--SUNY,Buffalo,NY,27850,10180
+​Colorado School of Mines,Golden,CO,39762,19062
+​Elon University,Elon,NC,36571,36571
+​Marquette University,Milwaukee,WI,43936,43936
+​Michigan State University,East Lansing,MI,39766,14460
+​North Carolina State University--Raleigh,Raleigh,NC,29220,9101
+​University of California--Santa Cruz,Santa Cruz,CA,43046,14054
+University of Iowa,Iowa City,IA,31568,9605
+Clark University,Worcester,MA,47200,47200
+Miami University--Oxford,Oxford,OH,34307,15232
+Stony Brook University--SUNY,Stony Brook,NY,28528,10076
+University of California--Riverside,Riverside,CA,42819,13827
+University of Delaware,Newark,DE,34310,13680
+University of San Diego,San Diego,CA,51186,51186
+Drexel University,Philadelphia,PA,54516,54516
+New Jersey Institute of Technology,Newark,NJ,32750,17338
+Saint Louis University,St. Louis,MO,45424,45424
+Texas Christian University,Fort Worth,TX,49250,49250
