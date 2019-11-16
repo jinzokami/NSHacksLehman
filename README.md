@@ -27,3 +27,5 @@ We learned new skills with javascript, such as pulling information from elements
 ## What's next for debtscalibur
 
 finding better sources of information would allow debtscalibur to offer better tailored information.
+
+![](demo3.gif)
