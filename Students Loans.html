@@ -31,7 +31,8 @@
     
     
 </head>      
-
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    
     <center> 
       
         <h1 style="color:rgb(0, 4, 255);">Affodable College Calculator</h1> 
@@ -74,15 +75,36 @@
               
           
           </style>
-          <table> <tr>
-              <th>Home</th>
-              <th>Objectives</th>
-              <th>Mision</th>
-              <th>Community</th>
-              <th>Location</th>
-              <th>college</th>
-            </tr></table>
+          <table> 
+            <tr class="column-names">
+              <th>University</th>
+              <th>City</th>
+              <th>State</th>
+              <th>Out of State Tuition</th>
+              <th>In State Tuition</th>
+              <th>Time to Pay Off</th>
+            </tr>
+
+            <tr class="rows">
+              <td class="uni-name">ex</td>
+              <td class="uni-city">ex</td>
+              <td class="uni-state">ex</td>
+              <td class="uni-otuition">ex</td>
+              <td class="uni-ituition">ex</td>
+              <td class="uni-ttp">ex</td>
+            </tr>
+          </table>
          
+          <script>
+            var file = fetch("result.json")
+            .then(response => response.json())
+            .then(json => add_row(0));
+
+            function add_row(row)
+            {
+              console.log("It worked");
+            }
+          </script>
          
     
     <p>This website is to inform prospective students how to ensure they do not accrue huge student loans  
